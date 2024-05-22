@@ -54,10 +54,10 @@ Once the system is running, follow the on-screen prompts to navigate through the
 The repository is organized as follows:
 
 - `main.cpp`: The main entry point of the application.
-- `product.cpp` and `product.h`: Files related to product management.
-- `customer.cpp` and `customer.h`: Files related to customer management.
-- `transaction.cpp` and `transaction.h`: Files related to transaction handling.
-- `file_manager.cpp` and `file_manager.h`: Files for handling file operations.
+- `product.h`: Files related to product management.
+- `customer.h`: Files related to customer management.
+- `transaction.h`: Files related to transaction handling.
+- `file_manager.h`: Files for handling file operations.
 - `README.md`: This file, providing an overview of the project.
 
 ## Contributors
