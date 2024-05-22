@@ -10,7 +10,6 @@ Welcome to the Market Management System repository! This project was developed b
 - [Usage](#usage)
 - [File Structure](#file-structure)
 - [Contributors](#contributors)
-- [License](#license)
 
 ## Introduction
 
