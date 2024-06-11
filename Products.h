@@ -7,8 +7,8 @@
 using namespace std;
 struct Product {
     int Id, Price;
-    char Name[100]; // Assuming a maximum name length of 100 characters
-    int nameOffset; // Offset of the product name in secondary file
+    char Name[100];  // Assuming a maximum name length of 100 characters
+    int nameOffset;  // Offset of the product name in secondary file
 };
 const string ProductFile = "products.txt";
 const string PrimaryFile = "primary.txt";
